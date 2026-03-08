@@ -91,7 +91,7 @@ A fully connected feedforward neural network built with PyTorch.
 
 ---
 
-## 🔍 Explainability (XAI)
+## Explainability (XAI)
 
 Understanding **why** a model makes certain predictions is crucial for trust and adoption in real-world network management. This project employs three XAI techniques:
 
@@ -123,7 +123,7 @@ Understanding **why** a model makes certain predictions is crucial for trust and
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -149,7 +149,7 @@ pip install torch pytorch-tabnet shap lime scikit-learn pandas numpy matplotlib 
 
 ---
 
-## 📂 Generated Artifacts (Not in Repo)
+## Generated Artifacts (Not in Repo)
 
 The model building notebook generates and caches the following artifacts locally:
 
@@ -165,19 +165,19 @@ artifacts/
 
 ---
 
-## 📜 License
+## License
 
 This project is part of a Master's thesis. Please contact the author for usage permissions.
 
 ---
 
-## 👤 Author
+## Author
 
 **Arindam Mo** — [@mo-arindam](https://github.com/mo-arindam)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [TabNet: Attentive Interpretable Tabular Learning](https://arxiv.org/abs/1908.07442) by Arik & Pfister (Google Cloud AI)
 - [SHAP](https://github.com/shap/shap) by Scott Lundberg
