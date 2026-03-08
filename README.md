@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository contains the code and experiments for my Master's thesis on **predicting energy consumption of 5G base stations** using machine learning models enhanced with **Explainable AI (XAI)** techniques. The goal is to build accurate predictive models while maintaining interpretability — a critical requirement for sustainable 5G network management and energy optimization.
 
@@ -12,7 +12,7 @@ Energy consumption is one of the key operational challenges for 5G networks. By 
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 ms-thesis/
@@ -30,7 +30,7 @@ ms-thesis/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses a **5G base station energy consumption dataset** containing operational metrics from multiple base stations. Key raw features include:
 
@@ -59,7 +59,7 @@ After one-hot encoding the `BS` column during model building, the final feature 
 
 ---
 
-## 🤖 Models
+## Models
 
 ### 1. TabNet
 
@@ -80,7 +80,7 @@ A fully connected feedforward neural network built with PyTorch.
 
 ---
 
-## 📈 Results
+## Results
 
 | Model   | MSE       | MAE      | R²       |
 |---------|-----------|----------|----------|
@@ -110,7 +110,7 @@ Understanding **why** a model makes certain predictions is crucial for trust and
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |----------|-------|
